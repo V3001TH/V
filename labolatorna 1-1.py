@@ -1,11 +1,11 @@
-import  математики
+import  math
 
 x  =  float ( input ( 'Введіть x: ' ))
 y  =  float ( input ( 'Введіть y: ' ))
 z  =  float ( input ( 'Введіть z: ' ))
 
-a  =(((**|x-1|)-(**|y|))/(1+(x^2/2)+(y^3/4)))
-b  = (x(arctg(z)+6))
+a  = 1
+b  = 1
 
 print ( 'Рівняння a= ' , a )
 print ( 'Рівняння b= ' , b )
